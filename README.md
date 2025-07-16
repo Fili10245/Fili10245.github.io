@@ -2,7 +2,7 @@
 # 📚 Página del Profesor de Ingeniería Química 👨‍🔬
 
 <p align="center">
-  <img src="images/banner_iq_profesor.png" alt="Banner Profesor Ingeniería Química" width="100%">
+  <img src="images/banner1.png" alt="Banner Profesor Ingeniería Química" width="100%">
 </p>
 ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás recursos, materiales y actualizaciones para los cursos que imparto.
 
