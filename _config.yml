@@ -3,3 +3,16 @@ description: Per angusta ad augusta
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+
+# Add the path to your custom styles
+sass:
+  style: compressed
+
+# Include the path for the custom CSS override
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/style.css"
