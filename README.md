@@ -15,6 +15,7 @@ Este semestre imparto los siguientes cursos:
 * [**Fenómenos de Superficie y Electroquímica**](fenomenos-superficie.md)
 * [**Simulación y Optimización de Procesos**](simulacion-optimizacion.md)
 * [**Fundamentos de Transferencia de Calor y Masa**](transferencia-calor-masa.md)
+* [**Matemáticas aplicadas a ingeniería**](Matemáticas-Maestría.md)
 
 ---
 
@@ -39,7 +40,7 @@ Mantente al día con los últimos anuncios y novedades de los cursos.
 
 Si tienes alguna pregunta, no dudes en contactarme:
 
-* **Correo electrónico:** tu.correo@ejemplo.com
+* **Correo electrónico:** filmartinez@uv.mx
 * **Horas de Oficina:** Martes y Jueves, 10:00 AM - 12:00 PM (previa cita)
 
 ---
