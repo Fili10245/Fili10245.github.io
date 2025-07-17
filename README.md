@@ -1,8 +1,8 @@
 
-# 📚 Página del Profesor de Ingeniería Química 👨‍🔬
+# Prof: Filiberto Martínez Martínez
 
 <p align="center">
-  <img src="images/banner1.jpg" alt="Banner Profesor Ingeniería Química" width="100%">
+  <img src="images/banner1.jpg" alt="Banner Profesor Ingeniería Química" width="70%">
 </p>
 ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás recursos, materiales y actualizaciones para los cursos que imparto.
 
