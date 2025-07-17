@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Override Leap Day colors */
+body {
+  background-color: #ffffff;  /* White background */
+  color: #003366;             /* UV blue for text */
+}
+
+a {
+  color: #0d6e3f;             /* UV green for links */
+}
+
+.header {
+  background-color: #0d6e3f;  /* UV green header */
+  color: white;
+}
+
+.navbar {
+  background-color: #0d6e3f;
+}
+
+.footer {
+  background-color: #003366;
+  color: white;
+}
