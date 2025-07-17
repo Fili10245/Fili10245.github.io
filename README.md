@@ -2,7 +2,7 @@
 # Prof: Filiberto Martínez Martínez
 
 <p align="center">
-  <img src="images/banner1.jpg" alt="Banner Profesor Ingeniería Química" width="70%">
+  <img src="images/banner1.jpg" alt="Banner Profesor Ingeniería Química" width="50%">
 </p>
 ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás recursos, materiales y actualizaciones para los cursos que imparto.
 
@@ -20,9 +20,9 @@ Este semestre imparto los siguientes cursos:
 
 ## 🔗 Enlaces Rápidos
 
-* [Repositorio Principal de la Universidad](https://github.com/universidad-iq)
+* [Repositorio Principal de la Universidad](https://www.uv.mx/cq/))
 * [Perfil en LinkedIn](https://www.linkedin.com/in/tu-perfil)
-* [Contacto por Correo Electrónico](mailto:tu.correo@ejemplo.com)
+* [Contacto por Correo Electrónico](mailto:filmartinez@uv.mx)
 
 ---
 
