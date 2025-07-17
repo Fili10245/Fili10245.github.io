@@ -2,6 +2,4 @@ title: "Profesor: Filiberto Martínez"
 description: Per angusta ad augusta
 show_downloads: false
 google_analytics:
-sass:
-  style: compressed
 theme: jekyll-theme-leap-day
