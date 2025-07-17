@@ -20,7 +20,7 @@ Este semestre imparto los siguientes cursos:
 
 ## 🔗 Enlaces Rápidos
 
-* [Repositorio Principal de la Universidad](https://www.uv.mx/cq/))
+* [Repositorio Principal de la Universidad](https://www.uv.mx/cq/)
 * [Perfil en LinkedIn](https://www.linkedin.com/in/tu-perfil)
 * [Contacto por Correo Electrónico](mailto:filmartinez@uv.mx)
 
