@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="/assets/css/style.scss">
 # Prof: Filiberto Martínez Martínez
 
 <p align="center">
