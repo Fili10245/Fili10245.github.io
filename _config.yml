@@ -2,13 +2,3 @@ title: "Profesor: Filiberto Martínez"
 description: Per angusta ad augusta
 show_downloads: false
 google_analytics: true
-
-# In _config.yml
-sass:
-  style: compressed
-
-# Add this if you haven’t already
-include:
-  - assets/css/custom.css
-  
-theme: jekyll-theme-leap-day
