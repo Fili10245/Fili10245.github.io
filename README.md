@@ -3,6 +3,7 @@
 <p align="center">
   <img src="images/banner1.jpg" alt="Banner Profesor Ingeniería Química" width="50%">
 </p>
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás recursos, materiales y actualizaciones para los cursos que imparto.
 
 ---
