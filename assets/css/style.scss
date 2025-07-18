@@ -6,7 +6,7 @@
 // Then, import the theme's main stylesheet.
 // Replace 'THEME_NAME' with the actual theme you are using from your _config.yml
 // For example: @import "jekyll-theme-minimal";
-@import "{{ site.theme }}";
+@import "jekyll-theme-leap-day";
 
 /* Add any other direct CSS overrides here if needed */
 body {
